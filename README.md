@@ -1,4 +1,5 @@
-# 💫 About Me:
+#![giphy](https://github.com/user-attachments/assets/b71ce853-8d20-4bf5-8a92-c4c311cd1d80)
+ 💫 About Me:
 👋 Hello Coders! I'm Rishabh<br>🎓 CS Student | 🇮🇳 India<br>💾 Passionate about web deveopement | 🚀 Exploring NoSQL Technologies<br><br>
 
 
