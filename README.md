@@ -34,7 +34,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![giphy](https://github.com/user-attachments/assets/c4e3197d-c253-4d58-90bf-09128b2c8100)
+
 
 ###
 
