@@ -1,4 +1,5 @@
-<h4 align="left">👋 Hello Coders! I'm Rishabh<br>🎓 CS Student | 🇮🇳 India<br>💾 Passionate about Databases | 🚀 Exploring NoSQL Technologies</h4>
+<h1>Hello Coders,👋, I'm Rishabh</h1>
+<h4 align="left">🎓 CS Student | 🇮🇳 India<br>💾 Passionate about Databases | 🚀 Exploring NoSQL Technologies</h4>
 
 ###
 
