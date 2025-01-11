@@ -82,7 +82,14 @@
 ###
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlieenBotrishabh&theme=dracula&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlieenBotrishabh&theme=react&hide_border=true" />
+  <img alt="Rishabh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlieenBotrishabh&theme=react&hide_border=true" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlieenBotrishabh/AlieenBotrishabh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlieenBotrishabh/AlieenBotrishabh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AlieenBotrishabh/AlieenBotrishabh/output/github-snake.svg" />
 </picture>
+
