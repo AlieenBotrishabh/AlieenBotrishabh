@@ -66,6 +66,30 @@
 
 ---
 
+## 🌟 Repository Highlights
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
+    <img alt="Repository 1 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
+    <img alt="Repository 2 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
+    <img alt="Repository 3 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
+  </picture>
+</div>
+
+---
+
 ![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/b61f60d0-7ffd-4095-9e71-4a7da0fd7fb8)
 
 ## 🌟 Profile Views
