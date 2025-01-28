@@ -69,23 +69,41 @@
 ## 🌟 Repository Highlights
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
-    <img alt="Repository 1 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
-  </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
-    <img alt="Repository 2 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
-  </picture>
+### 📦 Node.js Repository
+<p>
+  A repository showcasing various projects and utilities built using Node.js, including RESTful APIs, backend logic, and integrations.
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=dracula&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
+  <img alt="Node.js Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
-    <img alt="Repository 3 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
-  </picture>
+---
+
+### ☕ Java Projects
+<p>
+  A collection of Java projects ranging from data structures and algorithms to object-oriented programming and desktop apps.
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
+  <img alt="Java Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
+</picture>
+
+---
+
+### 💡 DSA (Data Structures & Algorithms)
+<p>
+  A comprehensive repository containing code solutions for data structures and algorithmic problems, suitable for coding interviews and competitions.
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
+  <img alt="DSA Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
+</picture>
+
 </div>
 
 ---
