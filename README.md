@@ -61,6 +61,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
 
 ---
