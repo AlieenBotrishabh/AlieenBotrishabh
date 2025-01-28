@@ -66,47 +66,19 @@
 
 ---
 
-## 🌟 Repository Highlights
+## 📂 My Top Repositories
 
-<div align="center">
+### 🌟 Featured Projects
 
-### 📦 Node.js Repository
-<p>
-  A repository showcasing various projects and utilities built using Node.js, including RESTful APIs, backend logic, and integrations.
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=dracula&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
-  <img alt="Node.js Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=default&hide_border=false" />
-</picture>
+[![Nodejs](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Nodejs&theme=dracula)](https://github.com/AlieenBotrishabh/Nodejs)
+[![java](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula)](https://github.com/AlieenBotrishabh/java)
 
 ---
 
-### ☕ Java Projects
-<p>
-  A collection of Java projects ranging from data structures and algorithms to object-oriented programming and desktop apps.
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
-  <img alt="Java Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=default&hide_border=false" />
-</picture>
+## 🔧 More Repositories
 
----
+[![dsa](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula)](https://github.com/AlieenBotrishabh/dsa)
 
-### 💡 DSA (Data Structures & Algorithms)
-<p>
-  A comprehensive repository containing code solutions for data structures and algorithmic problems, suitable for coding interviews and competitions.
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
-  <img alt="DSA Repository Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=default&hide_border=false" />
-</picture>
-
-</div>
-
----
 
 ![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/b61f60d0-7ffd-4095-9e71-4a7da0fd7fb8)
 
