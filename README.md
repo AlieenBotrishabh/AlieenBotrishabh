@@ -34,11 +34,7 @@
 
 ---
 
-## 🌟 Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlieenBotrishabh/count.svg?" alt="Profile Views" />
-</div>
 
 
 
@@ -66,6 +62,12 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+</div>
+
+## 🌟 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlieenBotrishabh/count.svg?" alt="Profile Views" />
 </div>
 
 ---
