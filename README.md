@@ -64,15 +64,15 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
 
+---
+
+![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/b61f60d0-7ffd-4095-9e71-4a7da0fd7fb8)
+
 ## 🌟 Profile Views
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlieenBotrishabh/count.svg?" alt="Profile Views" />
 </div>
-
----
-
-![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/b61f60d0-7ffd-4095-9e71-4a7da0fd7fb8)
 
 ## 🌟 Activity Graph
 
