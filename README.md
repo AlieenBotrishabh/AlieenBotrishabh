@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
