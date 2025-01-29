@@ -1,0 +1,42 @@
+name: Update Custom Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Stats Image
+        run: |
+          echo "Generating custom stats image..."
+          # Manually update the stats data here
+          LANGUAGES=("TypeScript" "JavaScript" "Python" "C++")
+          TIMES=(7 4 2 1) # Hours worked on each language
+          TOTAL_TIME=0
+          for time in "${TIMES[@]}"; do
+            let "TOTAL_TIME+=$time"
+          done
+
+          echo "Total time worked: $TOTAL_TIME hrs"
+
+          # Generate progress bars
+          for i in "${!LANGUAGES[@]}"; do
+            PERCENT=$(( (${TIMES[$i]} * 100) / $TOTAL_TIME ))
+            echo "${LANGUAGES[$i]}: ${TIMES[$i]} hrs | Progress: $PERCENT%"
+          done
+
+      - name: Update README
+        run: |
+          echo "Updating README with custom stats..."
+          echo "Custom stats section below" > README.md
+          echo "### My Custom Coding Stats" >> README.md
+          echo "1. TypeScript 7 hrs - 49%" >> README.md
+          echo "2. JavaScript 4 hrs - 28%" >> README.md
+          echo "3. Python 2 hrs - 14%" >> README.md
+          echo "4. C++ 1 hr - 7%" >> README.md
