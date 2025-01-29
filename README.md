@@ -5,6 +5,39 @@
 
 ---
 
+# My Coding Stats 👨‍💻
+
+## Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Skills Breakdown
+
+<div align="left">
+
+<pre style="color:#ED8B00">Java        <code>███████████████████████░░░░░░░   49%</code></pre>
+
+<pre style="color:#F7DF1E">JavaScript  <code>██████████████░░░░░░░░░░░░░░░░   28%</code></pre>
+
+<pre style="color:#3776AB">Python      <code>███████░░░░░░░░░░░░░░░░░░░░░░░   14%</code></pre>
+
+<pre style="color:#00599C">C++         <code>████░░░░░░░░░░░░░░░░░░░░░░░░░░   07%</code></pre>
+
+</div>
+
+
+<!-- Each block (█) represents approximately 2% -->
+<!-- Colors used:
+     Java: #ED8B00
+     JavaScript: #F7DF1E
+     Python: #3776AB
+     C++: #00599C
+-->
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="left">
