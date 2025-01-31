@@ -1,7 +1,8 @@
 # 👋 Hello Coders, I'm Rishabh!
 
 🎓 **CS Student** | 🇮🇳 **India**  
-💾 **Passionate about Databases** | 🚀 **Exploring NoSQL Technologies**
+💾 **Passionate about Databases** | 🚀 **Exploring NoSQL Technologies**  
+
 🔗 **Portfolio:** [alieenbotrishabh.github.io/Portfolio-Webiste](https://alieenbotrishabh.github.io/Portfolio-Webiste/)
 
 ---
