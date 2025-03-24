@@ -3,7 +3,7 @@
 🎓 **CS Student** | 🇮🇳 **India**  
 💾 **Passionate about Databases** | 🚀 **Exploring NoSQL Technologies**  
 
-🔗 **Portfolio:** [alieenbotrishabh.github.io/Portfolio-Webiste](https://portfolio-webiste-68-git-complete-alieenbotrishabhs-projects.vercel.app/)
+🔗 **Portfolio:** [alieenbotrishabh.github.io/Portfolio-Webiste](https://portfolio-webiste-obw7.vercel.app/)
 
 ---
 
