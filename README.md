@@ -3,7 +3,7 @@
 🎓 **CS Student** | 🇮🇳 **India**  
 💻 **Full Stack Developer** | 🚀 **Working on AI Apps**  
 
-🔗 **Portfolio:** [Click Here](https://portfolio-webiste-obw7.vercel.app/)
+🔗 [Portfolio](https://portfolio-webiste-obw7.vercel.app/)
 
 ---
 
