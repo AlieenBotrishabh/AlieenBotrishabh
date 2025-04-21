@@ -1,9 +1,9 @@
 # 👋 Hello Coders, I'm Rishabh!
 
 🎓 **CS Student** | 🇮🇳 **India**  
-💾 **Passionate about Databases** | 🚀 **Exploring NoSQL Technologies**  
+💻 **Full Stack Developer** | 🚀 **Working on AI Apps**  
 
-🔗 **Portfolio:** (https://portfolio-webiste-obw7.vercel.app/)
+🔗 **Portfolio:** [Click Here](https://portfolio-webiste-obw7.vercel.app/)
 
 ---
 
