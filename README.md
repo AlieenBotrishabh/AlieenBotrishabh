@@ -80,7 +80,7 @@
 ### 🌟 Featured Projects
 
 [![Advanced-Collaborative-User-Task-Manager](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Advanced-Collaborative-User-Task-Manager&theme=dracula)](https://github.com/AlieenBotrishabh/Advanced-Collaborative-User-Task-Manager)
-[![java](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=java&theme=dracula)](https://github.com/AlieenBotrishabh/java)
+[![Workout-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Workout-Trainer&theme=dracula)](https://github.com/AlieenBotrishabh/Workout-Trainer)
 
 ---
 
