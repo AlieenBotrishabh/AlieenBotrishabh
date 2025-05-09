@@ -87,6 +87,7 @@
 ## 🔧 More Repositories
 
 [![dsa](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=dsa&theme=dracula)](https://github.com/AlieenBotrishabh/dsa)
+[![News-App](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=News-App&theme=dracula)](https://github.com/AlieenBotrishabh/News-App)
 
 
 ![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/b61f60d0-7ffd-4095-9e71-4a7da0fd7fb8)
