@@ -79,7 +79,7 @@
 
 ### 🌟 Featured Projects
 
-[![Advanced-Collaborative-User-Task-Manager](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Advanced-Collaborative-User-Task-Manager&theme=dracula)](https://github.com/AlieenBotrishabh/Advanced-Collaborative-User-Task-Manager)
+[![NextHire-An-Online-Job-Portal](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=NextHire-An-Online-Job-Portal&theme=dracula)](https://github.com/AlieenBotrishabh/NextHire-An-Online-Job-Portal)
 [![Workout-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=AlieenBotrishabh&repo=Workout-Trainer&theme=dracula)](https://github.com/AlieenBotrishabh/Workout-Trainer)
 
 ---
